@@ -1,4 +1,4 @@
-local framework = loadstring(game:HttpGet("https://raw.githubusercontent.com/judghementday2/bypass/refs/heads/main/framework.lua", true))();
+local framework = loadstring(game:HttpGet("https://raw.githubusercontent.com/toiletalphamale/aztupforEpsilon/refs/heads/main/syck.lua", true))();
 --
 do -- checks
     do -- folders
