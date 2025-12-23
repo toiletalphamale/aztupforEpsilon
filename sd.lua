@@ -6,7 +6,7 @@ local settings = {
 
 local drawing = loadstring(game:HttpGet("https://github.com/GhostDuckyy/UI-Libraries/blob/main/DEADCELL%20REMAKE/misc/extension.lua?raw=true"))();
 local TweenService = game:GetService("TweenService")
-local bxor = loadstring(game:HttpGet('https://github.com/GhostDuckyy/GhostDuckyy/blob/main/Tool/bxor.lua?raw=true'))()
+local bxor = loadstring(game:HttpGet('https://raw.githubusercontent.com/GhostDuckyy/GhostDuckyy/refs/heads/main/Tools/bxor.lua'))()
 
 -- // UI LIBRARY
 if not isfolder(settings.folder_name) then
